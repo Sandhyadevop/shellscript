@@ -5,3 +5,4 @@ name=ab
 
 echo "a value is: "$1
 echo "b value is: "$2
+example file
