@@ -15,3 +15,6 @@ git is a one company repositary
 like public, private, central repositary
 this lines are added from the git hub
 this is the example for pull request
+
+
+example for stash command
